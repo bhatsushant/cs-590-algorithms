@@ -1,2 +1,3 @@
-#CS590 Algorithms Assignments
-##Technologies: C++
+# CS590 Algorithms Assignments
+
+## Technologies: C++
